@@ -1,19 +1,19 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Biologia',
+    'O que são células procariontes e eucariontes?',
+    'Procariontes não têm núcleo definido, enquanto eucariontes têm núcleo.'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual é o maior país do mundo em extensão territorial?',
+    'É a Rússia'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Artes',
+    'Quem pintou a Mona Lisa?',
+    'Leonardo da Vinci.'
 )
 
 criaCartao(
